@@ -40,7 +40,7 @@
 🖥️  See my portfolio at [lobastov.dev](http://lobastov.dev)
 ✉️  You can contact me at [hello.artem.lobastov@gmail.com](mailto:hello.artem.lobastov@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,css,html)](https://skillicons.dev)
 
 ### Skills
 
