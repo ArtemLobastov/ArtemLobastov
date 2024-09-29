@@ -13,6 +13,8 @@
 [![My stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,css,html)](https://skillicons.dev)
 
 ### Tools I code with
+![Prisma](https://img.shields.io/badge/prisma-%23593d88.svg?style=for-the-badge&logo=prisma&logoColor=white)
+
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -29,7 +31,7 @@
 ![Supabase](https://img.shields.io/badge/supabase-%23000000.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/supabase-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/supabase-%23000000.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Styled Components](https://img.shields.io/badge/supabase-%23000000.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled-components-%23000000.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23000000.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%23000000.svg?style=for-the-badge&logo=Photoshop&logoColor=white)
