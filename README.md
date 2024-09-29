@@ -39,9 +39,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-🖥️  See my portfolio at [lobastov.dev](http://lobastov.dev)
-✉️  You can contact me at [hello.artem.lobastov@gmail.com](mailto:hello.artem.lobastov@gmail.com)
+<p>🖥️  See my portfolio at [lobastov.dev](http://lobastov.dev)</p>
+<p>✉️  Contact me at [hello.artem.lobastov@gmail.com](mailto:hello.artem.lobastov@gmail.com)
+</p>
 
 
 
