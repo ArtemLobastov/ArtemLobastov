@@ -7,12 +7,13 @@
 <h1> Hello there!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> Nice to see you.</h1>
 
 <p>Welcome to my GH page! </br> I'm Artem, Frontend developer and Project Manager currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197625.png" width="13"/> <b>Malta</b>. </p>
-
-### My stack
-[![My stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,css,html)](https://skillicons.dev)
+<br>
 🖥️  See my portfolio at [lobastov.dev](http://lobastov.dev)
 <br>
 ✉️  Contact me at [hello.artem.lobastov@gmail.com](mailto:hello.artem.lobastov@gmail.com)
+### My stack
+[![My stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,css,html)](https://skillicons.dev)
+
 ### Tools I code with
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
