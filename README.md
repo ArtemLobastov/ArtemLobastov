@@ -19,7 +19,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Tanstack query](https://img.shields.io/badge/react%20query-%23593d88.svg?style=for-the-badge&logo=react%20query&logoColor=white)
-![Zustand](https://img.shields.io/badge/zustand-%23593d88.svg?style=for-the-badge&logo=zustand&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-%23593d88.svg?style=for-the-badge&logo=bear&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
