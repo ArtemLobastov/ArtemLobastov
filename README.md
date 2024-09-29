@@ -14,8 +14,7 @@
 
 ### Tools I code with
 ![Prisma](https://img.shields.io/badge/prisma-%23593d88.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-%23593d88.svg?style=for-the-badge&logo=ShadCN&logoColor=white)
-
+![ShadCN](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
