@@ -14,7 +14,7 @@
 
 ### Tools I code with
 ![Prisma](https://img.shields.io/badge/prisma-000850?style=for-the-badge&logo=prisma&logoColor=white)
-![zod](https://img.shields.io/badge/zod-#1946cf?style=for-the-badge&logo=zod&logoColor=white)
+![zod](https://img.shields.io/badge/zod-1946cf?style=for-the-badge&logo=zod&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
