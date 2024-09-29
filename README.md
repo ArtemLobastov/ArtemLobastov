@@ -36,8 +36,6 @@
 ![Vite](https://img.shields.io/badge/Vite-53014a?style=for-the-badge&logo=vite&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled_components-d111bb?style=for-the-badge&logo=styled-components&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3363c4?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-33c48c?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%23000000.svg?style=for-the-badge&logo=Photoshop&logoColor=white)
 
 🖥️  See my portfolio at [lobastov.dev](http://lobastov.dev)
 
