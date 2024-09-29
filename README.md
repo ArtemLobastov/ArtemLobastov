@@ -39,7 +39,9 @@
 
 * 🖥️  See my portfolio at [lobastov.dev](http://lobastov.dev)
 * ✉️  You can contact me at [hello.artem.lobastov@gmail.com](mailto:hello.artem.lobastov@gmail.com)
-
+<h3>Contact me</h3>
+<p><a href="https://github.com/ArtemLobastov" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/artem-lobastov" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://t.me/artemlobastov" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
 
 ### Skills
 
