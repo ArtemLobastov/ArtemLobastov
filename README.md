@@ -10,7 +10,7 @@
 
 
 ### My stack
-[![My stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,css,html)]
+![My stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,css,html)
 
 ### Tools I code with
 ![Prisma](https://img.shields.io/badge/prisma-000850?style=for-the-badge&logo=prisma&logoColor=white)
