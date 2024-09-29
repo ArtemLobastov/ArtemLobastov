@@ -10,7 +10,8 @@
 
 ### My stack
 [![My stack](https://skillicons.dev/icons?i=nextjs,react,ts,js,css,html)](https://skillicons.dev)
-
+🖥️  See my portfolio at [lobastov.dev](http://lobastov.dev)
+✉️  Contact me at [hello.artem.lobastov@gmail.com](mailto:hello.artem.lobastov@gmail.com)
 ### Tools I code with
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -39,9 +40,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<p>🖥️  See my portfolio at [lobastov.dev](http://lobastov.dev)</p>
-<p>✉️  Contact me at [hello.artem.lobastov@gmail.com](mailto:hello.artem.lobastov@gmail.com)
-</p>
+
+
 
 
 
