@@ -17,6 +17,7 @@
 ![zod](https://img.shields.io/badge/zod-1946cf?style=for-the-badge&logo=zod&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Tanstack query](https://img.shields.io/badge/react%20query-a93798?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-%23593d88.svg?style=for-the-badge&logo=bear&logoColor=white)
