@@ -38,7 +38,7 @@
 ![Supabase](https://img.shields.io/badge/supabase-005c38?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3363c4?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
-🖥️  See my portfolio at [lobastov.dev](http://lobastov.dev)
+
 
 ✉️  Contact me at [hello.artem.lobastov@gmail.com](mailto:hello.artem.lobastov@gmail.com)
 
